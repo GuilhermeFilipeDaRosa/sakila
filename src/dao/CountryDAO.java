@@ -21,7 +21,7 @@ import util.ConnectionJdbc;
  */
 public class CountryDAO {
     Connection connection;
-    public void CountryDAO() throws Exception{
+    public CountryDAO() throws Exception{
         connection = ConnectionJdbc.getConnection();
     }
     

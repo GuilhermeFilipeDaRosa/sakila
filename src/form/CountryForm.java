@@ -196,7 +196,6 @@ public class CountryForm extends javax.swing.JFrame {
             }
         } catch (Exception ex) {
             JOptionPane.showMessageDialog(this, ex.getMessage());
-            System.out.println("Erro aqui");
         }
     }
     public void Novo(){

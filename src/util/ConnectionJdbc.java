@@ -20,7 +20,7 @@ public class ConnectionJdbc {
     
             //Dados da conexao
             String servidor = "localhost";
-            String database = "C:\\Users\\User\\Desktop\\sakila\\sakila.fdb";
+            String database = "E:\\Curso tecnico\\JavaII\\sakila\\SAKILA.fdb";
             String User = "SYSDBA";
             String password = "masterkey";
             
